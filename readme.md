@@ -1,3 +1,5 @@
+## Logo License
+
 Author | [Hayashi Fumihiro](http://www.thenounproject.com/skeleton55)
 :------------- | -------------:
 **Icon** | [**Wildfire**](http://thenounproject.com/term/wildfire/77729/)
