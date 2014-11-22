@@ -1,6 +1,5 @@
-## Logo License
+# [meta](https://github.com/regexps/meta/issues)
 
-Author | [Hayashi Fumihiro](http://www.thenounproject.com/skeleton55)
-:------------- | -------------:
-**Icon** | [**Wildfire**](http://thenounproject.com/term/wildfire/77729/)
-**License** | [**CC BY 3.0**](http://creativecommons.org/licenses/by/3.0/us/)
+> General discussions repo for regexps related projects
+
+If you have any general questions regarding regexps or any of its projects, please open an issue here. Don't open issues in other repositories unless they are actual issues.
