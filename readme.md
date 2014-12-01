@@ -1,4 +1,5 @@
 # [meta](https://github.com/regexps/meta/issues)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/regexps/meta?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > General discussions repo for regexps related projects
 
